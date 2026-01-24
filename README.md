@@ -1,2 +1,7 @@
-# Bootcamp-Data-Science-and-Mechine-Learning
-A collection of projects, notes, and hands-on exercises from my Data Science and Machine Learning bootcamp, covering data fundamentals, SQL, Python, machine learning, and data visualization.
+## Bootcamp Data Science and Machine Learning
+
+Repository ini berisi dokumentasi pembelajaran saya selama mengikuti bootcamp Data Science dan Machine Learning.
+
+Dalam bootcamp ini, saya mempelajari konsep dasar data, big data, dan data science, serta alur pengolahan data dari awal hingga menghasilkan insight. Materi yang dipelajari meliputi SQL dan Python untuk pengolahan dan analisis data, dasar-dasar machine learning, serta visualisasi data menggunakan Tableau.
+
+Repository ini berisi latihan, proyek praktik, dan catatan pembelajaran yang menunjukkan proses berpikir analitis, pemahaman teknis, serta penerapan tools data science secara nyata.
